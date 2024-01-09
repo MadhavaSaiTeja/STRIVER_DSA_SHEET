@@ -1,4 +1,4 @@
-204. Count Primes
+/*204. Count Primes
 
 Problem Link: https://leetcode.com/problems/count-primes/description/
 
@@ -24,7 +24,7 @@ Output: 0
 Constraints:
 
 0 <= n <= 5 * 10^6
-
+*/
 
 //Code:
 
