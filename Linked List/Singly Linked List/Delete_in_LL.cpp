@@ -12,7 +12,7 @@ class Node {
     public:
     Node(int data1,Node* next1){
         data = data1;
-        next1 = next;
+        next = next1;
     }
     public:
     Node(int data1){
